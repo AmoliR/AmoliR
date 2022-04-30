@@ -40,7 +40,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 ---
-## 🌏 Find me around the web 
+## 🌏 Find Me Around the Web 
+[![GitHub Pages](https://img.shields.io/badge/-Portfolio-d5ded7?style=flat&logo=githubpages&logoColor=222222)](https://amolir.github.io/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amolirajgor)&nbsp;
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/amoli13)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amoli.rajgor@gmail.com])&nbsp;
