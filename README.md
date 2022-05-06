@@ -6,6 +6,15 @@
   <img src="https://raw.githubusercontent.com/AmoliR/AmoliR/main/github_profile_banner.png" width="100%" title="Intro Banner" alt="Intro Banner">
 </p>
 
+ 👩🏻‍💼 I have a keen interest in developing and collaborating on Data Science projects. More than three years of experience in working in product based industry and building analytics platforms has benefited me in developing model thinking to solve real-world problems.
+
+🌱 I have recently gained an interest in language technology and am working on various Natural Language Processing (NLP) projects at the moment. Latest Project being [Content Based Recommendation Using BERT-Embeddings](https://github.com/AmoliR/nlp-for-book-recommendation).
+
+✍️ I aim to get in-depth knowledge about concepts and this encourages me to log my learnings as the journey progresses. With this intent, I am creating a comprehensive guide for NLP that will help beginners to understand key concepts and working of various algorithms and NLP libraries such as Spacy and NLTK. 
+
+📚 I am currently learning advanced deep learning techniques. Next projects I intend to work on are related to Aspect Based Sentiment Analysis and Name Entity Recognition.
+
+
 ---
 ## 🛠️ &nbsp;Tech Stack and Tools Preference
 
