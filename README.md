@@ -14,7 +14,16 @@
 
 📚 I am currently learning advanced deep learning techniques. Next projects I intend to work on are related to Aspect Based Sentiment Analysis and Name Entity Recognition.
 
+---
+## 🚀 &nbsp; Key Projects
 
+| Projects    | Repository |
+| :----------- | :----------- |
+| 🚧 🆕 Semisupervised Aspect Extraction: Demonstration of Topic Modelling Techniques on Restaurant Reviews | [![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress) |
+| 🆕 Content-Based Filtering: NLP Based Book Recommender Using BERT-Embeddings | [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=github)](https://github.com/AmoliR/nlp-for-book-recommendation) |
+| Payment Default Prediction | [![View on GitLab](https://img.shields.io/badge/GitLab-View_on_GitLab-blue?logo=gitlab)](https://gitlab.com/amoli13/payment-default-prediction) |
+| Click-Stream Data Anomaly Detection | [![View on GitLab](https://img.shields.io/badge/GitLab-View_on_GitLab-blue?logo=gitlab)](https://gitlab.com/amoli13/anomaly-detection) |
+| Predictive Modeling For Real Estate Properties | [![View on GitLab](https://img.shields.io/badge/GitLab-View_on_GitLab-blue?logo=gitlab)](https://gitlab.com/amoli13/predictive-analytics) |
 ---
 ## 🛠️ &nbsp;Tech Stack and Tools Preference
 
@@ -26,6 +35,9 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)&nbsp;
 ![Dask](https://img.shields.io/badge/-DASK-FDA061?style=for-the-badge&logo=dask&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![GENSIM](https://img.shields.io/badge/-gensim-87a7fe?style=for-the-badge)&nbsp;
+![SPACY](https://img.shields.io/badge/-spacy-09a3d5?style=for-the-badge)&nbsp;
+![NLTK](https://img.shields.io/badge/-NLTK-154f5b?style=for-the-badge)&nbsp;
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
